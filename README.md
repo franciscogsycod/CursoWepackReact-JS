@@ -1,3 +1,3 @@
 # CursoWebpackReact-JS
 
-2a parte del curso de Wepack en platzi
+2a parte del curso de Webpack en platzi
